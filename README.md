@@ -36,7 +36,8 @@ class HomePage extends StatelessWidget {
 
 
 
-![Sumon Hasan](https://avatars.githubusercontent.com/sumon-abc?size=100)
+## About me
+![Sumon Hasan](https://avatars.githubusercontent.com/sumon-abc?size=95)
 
 ###### [Sumon hasan]()
 
