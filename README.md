@@ -1,38 +1,39 @@
-# ![WebApp](https://iharsh234.github.io/WebApp/images/demo/demo_landing.JPG)
-# WebApp
+# ![image search api](https://images.pexels.com/photos/45853/grey-crowned-crane-bird-crane-animal-45853.jpeg?auto=compress&cs=tinysrgb&w=600)[Birds in World!](https://www.youtube.com/watch?v=3HIr0imLgxM)
+
+# Birds
 <table>
 <tr>
 <td>
-  A webapp using Quandl API to display history of stock growth in a given period of time. It helps predict the growth of stocks from the  charts of stock performace in any period of time. It helps to judge stocks, with the principle of momentum investing, which returns 1% per month on average.
+To do something...
 </td>
 </tr>
 </table>
 
 
 ## Demo
-Here is a working live demo :  https://iharsh234.github.io/WebApp/
+Here is a demo link :  https://avatars.githubusercontent.com/sumon-abc
 
 
 ## Site
 
-### Landing Page
+### Birds in world
 Currently it is working on all NSE (India) Stocks, BSE (India) Stocks Symbol will be added soon.
 
-![](https://iharsh234.github.io/WebApp/images/demo/web_app_face.JPG)
+![](https://images.pexels.com/photos/1133957/pexels-photo-1133957.jpeg?auto=compress&cs=tinysrgb&w=600)
 
-### Query Filled Form
-![](https://iharsh234.github.io/WebApp/images/demo/demo_query.JPG)
+### Two birds
+![](https://images.pexels.com/photos/37833/rainbow-lorikeet-parrots-australia-rainbow-37833.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
 
-### Charts
-![](https://iharsh234.github.io/WebApp/images/demo/demo_chart1.JPG)
-![](https://iharsh234.github.io/WebApp/images/demo/demo_chart2.JPG)
-![](https://iharsh234.github.io/WebApp/images/demo/demo_chart3.JPG)
+### Beautiful birds
+![](https://images.pexels.com/photos/105808/pexels-photo-105808.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
+![](https://images.pexels.com/photos/12332468/pexels-photo-12332468.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
+![](https://images.pexels.com/photos/6435527/pexels-photo-6435527.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load)
 
 
-## Mobile support
-The WebApp is compatible with devices of all sizes and all OS's, and consistent improvements are being made.
+## More birds
+Write something
 
-![](https://iharsh234.github.io/WebApp/images/demo/mobile.png)
+![](https://images.pexels.com/photos/11961265/pexels-photo-11961265.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load)
 
 
 
